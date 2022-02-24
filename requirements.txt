@@ -6,4 +6,3 @@ seaborn
 pandas
 flask
 gunicorn
-pickle
