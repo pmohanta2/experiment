@@ -4,5 +4,7 @@ sklearn
 matplotlib
 seaborn
 pandas
-flask
+Flask
 gunicorn
+click
+itsdangerous
