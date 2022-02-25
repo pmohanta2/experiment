@@ -5,5 +5,3 @@ seaborn
 pandas
 Flask
 gunicorn
-click
-itsdangerous
